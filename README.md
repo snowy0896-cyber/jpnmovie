@@ -64,7 +64,7 @@ function showAds(){
 
     
     setTimeout(function(){
-        window.location.href="WhatsApp Image 2026-07-17 at 22.41.50.jpeg";
+        window.location.href="WhatsApp Video 2026-07-17 at 23.17.04.mp4";
     },3000);
 
 }
