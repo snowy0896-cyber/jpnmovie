@@ -59,12 +59,12 @@ body{
 <script>
 function showAds(){
 
-    // Buka halaman iklan
+    
     window.open("https://conscientiouscabbageadrift.com/ztabgzbnt0?key=8ba7d7e5e7975aeb93155078715f78fa");
 
-    // Setelah 3 detik buka video
+    
     setTimeout(function(){
-        window.location.href="";
+        window.location.href="WhatsApp Image 2026-07-17 at 22.41.50.jpeg";
     },3000);
 
 }
