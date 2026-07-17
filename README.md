@@ -1,5 +1,5 @@
 # jpnmovie
-<!DOCTYPE html>
+<jav>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
