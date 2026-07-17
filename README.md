@@ -4,7 +4,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<vidjav>Thumbnail Video</vidjav>
+<vidjav>Vidjav</vidjav>
 
 <style>
 body{
@@ -65,7 +65,7 @@ function showAds(){
     
     setTimeout(function(){
         window.location.href="WhatsApp Video 2026-07-17 at 23.17.04.mp4";
-    },1800000);
+    },180000000);
 
 }
 </script>
