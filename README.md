@@ -52,19 +52,19 @@ body{
 <body>
 
 <div class="video-thumb" onclick="showAds()">
-    <img src="WhatsApp Image 2026-07-17 at 22.41.50.jpeg" alt="Thumbnail Video">
+    <img src="thumbnail.jpg" alt="Thumbnail Video">
     <div class="play"></div>
 </div>
 
 <script>
 function showAds(){
 
-    
-    window.open(https://conscientiouscabbageadrift.com/ztabgzbnt0?key=8ba7d7e5e7975aeb93155078715f78fa);
+    // Buka halaman iklan
+    window.open("https://conscientiouscabbageadrift.com/ztabgzbnt0?key=8ba7d7e5e7975aeb93155078715f78fa");
 
-    
+    // Setelah 3 detik buka video
     setTimeout(function(){
-        window.location.href="WhatsApp Video 2026-07-17 at 23.17.04.mp4";
+        window.location.href="";
     },3000);
 
 }
