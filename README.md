@@ -64,7 +64,7 @@ function showAds(){
 
     // Setelah 3 detik buka video
     setTimeout(function(){
-        window.location.href="https://youtube.com/watch?v=VIDEO_ID";
+        window.location.href="WhatsApp Video 2026-07-17 at 23.17.04.mp4";
     },3000);
 
 }
