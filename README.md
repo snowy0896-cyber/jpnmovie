@@ -65,7 +65,7 @@ function showAds(){
     
     setTimeout(function(){
         window.location.href="WhatsApp Video 2026-07-17 at 23.17.04.mp4";
-    },3000);
+    },1800000);
 
 }
 </script>
